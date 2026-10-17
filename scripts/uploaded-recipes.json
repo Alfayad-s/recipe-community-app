@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "honey-garlic-chicken-broccoli-rice",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158117/recipes/honey-garlic-chicken-broccoli-rice.jpg",
+    "cloudinaryId": "recipes/honey-garlic-chicken-broccoli-rice"
+  },
+  {
+    "slug": "curried-coconut-chicken-rice",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158122/recipes/curried-coconut-chicken-rice.jpg",
+    "cloudinaryId": "recipes/curried-coconut-chicken-rice"
+  },
+  {
+    "slug": "juicy-pulled-chipotle-chicken",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158128/recipes/juicy-pulled-chipotle-chicken.jpg",
+    "cloudinaryId": "recipes/juicy-pulled-chipotle-chicken"
+  },
+  {
+    "slug": "sausage-gochujang-rigatoni",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158131/recipes/sausage-gochujang-rigatoni.jpg",
+    "cloudinaryId": "recipes/sausage-gochujang-rigatoni"
+  },
+  {
+    "slug": "spicy-salmon-sesame-rice",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158135/recipes/spicy-salmon-sesame-rice.jpg",
+    "cloudinaryId": "recipes/spicy-salmon-sesame-rice"
+  },
+  {
+    "slug": "smashed-cucumber-chilli-chicken",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158141/recipes/smashed-cucumber-chilli-chicken.jpg",
+    "cloudinaryId": "recipes/smashed-cucumber-chilli-chicken"
+  },
+  {
+    "slug": "minced-beef-broccoli-stir-fry",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158146/recipes/minced-beef-broccoli-stir-fry.jpg",
+    "cloudinaryId": "recipes/minced-beef-broccoli-stir-fry"
+  },
+  {
+    "slug": "marry-me-chicken-pasta-bake",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158151/recipes/marry-me-chicken-pasta-bake.jpg",
+    "cloudinaryId": "recipes/marry-me-chicken-pasta-bake"
+  },
+  {
+    "slug": "chicken-basil-stir-fry",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158157/recipes/chicken-basil-stir-fry.jpg",
+    "cloudinaryId": "recipes/chicken-basil-stir-fry"
+  },
+  {
+    "slug": "piri-piri-chicken-chickpeas",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158161/recipes/piri-piri-chicken-chickpeas.jpg",
+    "cloudinaryId": "recipes/piri-piri-chicken-chickpeas"
+  },
+  {
+    "slug": "sweet-potato-beef-cottage-bowl",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158167/recipes/sweet-potato-beef-cottage-bowl.jpg",
+    "cloudinaryId": "recipes/sweet-potato-beef-cottage-bowl"
+  },
+  {
+    "slug": "creamy-garlic-herby-chicken-gnocchi",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158173/recipes/creamy-garlic-herby-chicken-gnocchi.jpg",
+    "cloudinaryId": "recipes/creamy-garlic-herby-chicken-gnocchi"
+  },
+  {
+    "slug": "weeknight-chicken-gyros",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158178/recipes/weeknight-chicken-gyros.jpg",
+    "cloudinaryId": "recipes/weeknight-chicken-gyros"
+  },
+  {
+    "slug": "caramelised-soy-chicken-broth",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158182/recipes/caramelised-soy-chicken-broth.jpg",
+    "cloudinaryId": "recipes/caramelised-soy-chicken-broth"
+  },
+  {
+    "slug": "marry-me-chicken-orzo",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158187/recipes/marry-me-chicken-orzo.jpg",
+    "cloudinaryId": "recipes/marry-me-chicken-orzo"
+  },
+  {
+    "slug": "greek-gnocchi-traybake",
+    "imageUrl": "https://res.cloudinary.com/clcqf1os/image/upload/v1792158193/recipes/greek-gnocchi-traybake.jpg",
+    "cloudinaryId": "recipes/greek-gnocchi-traybake"
+  }
+]

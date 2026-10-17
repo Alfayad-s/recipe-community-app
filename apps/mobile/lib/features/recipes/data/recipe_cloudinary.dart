@@ -1,0 +1,34 @@
+const recipeCloudinaryUrls = <String, String>{
+  'honey-garlic-chicken-broccoli-rice':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158117/recipes/honey-garlic-chicken-broccoli-rice.jpg',
+  'curried-coconut-chicken-rice':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158122/recipes/curried-coconut-chicken-rice.jpg',
+  'juicy-pulled-chipotle-chicken':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158128/recipes/juicy-pulled-chipotle-chicken.jpg',
+  'sausage-gochujang-rigatoni':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158131/recipes/sausage-gochujang-rigatoni.jpg',
+  'spicy-salmon-sesame-rice':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158135/recipes/spicy-salmon-sesame-rice.jpg',
+  'smashed-cucumber-chilli-chicken':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158141/recipes/smashed-cucumber-chilli-chicken.jpg',
+  'minced-beef-broccoli-stir-fry':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158146/recipes/minced-beef-broccoli-stir-fry.jpg',
+  'marry-me-chicken-pasta-bake':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158151/recipes/marry-me-chicken-pasta-bake.jpg',
+  'chicken-basil-stir-fry':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158157/recipes/chicken-basil-stir-fry.jpg',
+  'piri-piri-chicken-chickpeas':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158161/recipes/piri-piri-chicken-chickpeas.jpg',
+  'sweet-potato-beef-cottage-bowl':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158167/recipes/sweet-potato-beef-cottage-bowl.jpg',
+  'creamy-garlic-herby-chicken-gnocchi':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158173/recipes/creamy-garlic-herby-chicken-gnocchi.jpg',
+  'weeknight-chicken-gyros':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158178/recipes/weeknight-chicken-gyros.jpg',
+  'caramelised-soy-chicken-broth':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158182/recipes/caramelised-soy-chicken-broth.jpg',
+  'marry-me-chicken-orzo':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158187/recipes/marry-me-chicken-orzo.jpg',
+  'greek-gnocchi-traybake':
+      'https://res.cloudinary.com/clcqf1os/image/upload/v1792158193/recipes/greek-gnocchi-traybake.jpg',
+};

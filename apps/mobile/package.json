@@ -1,0 +1,11 @@
+{
+  "name": "mobile",
+  "private": true,
+  "scripts": {
+    "dev": "flutter run",
+    "build": "flutter build bundle",
+    "lint": "dart analyze",
+    "test": "flutter test",
+    "clean": "flutter clean"
+  }
+}

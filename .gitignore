@@ -1,0 +1,57 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Build
+dist
+build
+.turbo
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Prisma
+apps/api/src/generated
+
+# IDE
+.idea
+.vscode
+*.swp
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Flutter
+apps/mobile/.dart_tool
+apps/mobile/.flutter-plugins
+apps/mobile/.flutter-plugins-dependencies
+apps/mobile/.packages
+apps/mobile/build
+apps/mobile/.idea
+apps/mobile/android/.gradle
+apps/mobile/android/app/debug
+apps/mobile/android/app/profile
+apps/mobile/android/app/release
+apps/mobile/ios/Pods
+apps/mobile/ios/.symlinks
+apps/mobile/ios/Flutter/Flutter.framework
+apps/mobile/ios/Flutter/Flutter.podspec
+apps/mobile/**/*.iml
+apps/mobile/.metadata
+
+# Coverage
+coverage
+.nyc_output
+
+# Local ingredient icons (hosted on Cloudinary)
+incredients-icons/
+
+# Local 4K design plates (not used by the app)
+apps/mobile/design/

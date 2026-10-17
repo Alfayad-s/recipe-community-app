@@ -1,0 +1,1166 @@
+# Food Ingredients Master List
+
+A broad, practical reference list of vegetables, fruits, spices, nuts, dry fruits, grains, wheat products, pulses, herbs, oils, dairy, baking ingredients, condiments, and other ingredients used in Indian and international cooking.
+
+> This is a comprehensive working list, not a literally exhaustive list of every regional cultivar or product worldwide. Some ingredients naturally appear in more than one category.
+
+## 1. Vegetables
+
+### Root and tuber vegetables
+- Potato
+- Sweet potato
+- Carrot
+- Beetroot
+- Radish
+- White radish
+- Turnip
+- Yam
+- Elephant foot yam
+- Tapioca (cassava)
+- Taro root
+- Colocasia
+- Purple yam
+- Parsnip
+- Jerusalem artichoke
+- Lotus root
+- Horseradish
+- Ginger
+- Turmeric root
+- Chinese potato (koorka)
+- Chena
+- Chembu
+
+### Leafy vegetables and greens
+- Spinach
+- Amaranth leaves
+- Red amaranth
+- Malabar spinach
+- Fenugreek leaves
+- Mustard greens
+- Kale
+- Lettuce
+- Cabbage leaves
+- Collard greens
+- Bok choy
+- Swiss chard
+- Sorrel
+- Water spinach
+- Drumstick leaves
+- Curry leaves
+- Coriander leaves
+- Mint leaves
+- Dill leaves
+- Parsley
+- Celery leaves
+- Spring onion greens
+- Colocasia leaves
+- Pumpkin leaves
+- Vietnamese coriander
+- Culantro
+
+### Gourds and squash
+- Bottle gourd (lauki)
+- Bitter gourd
+- Ridge gourd
+- Sponge gourd
+- Snake gourd
+- Ash gourd
+- Pumpkin
+- Butternut squash
+- Zucchini
+- Yellow squash
+- Pointed gourd (parwal)
+- Ivy gourd (kovakkai)
+- Chayote
+- Cucumber
+- Winter melon
+- Vellarikka
+
+### Flower and cruciferous vegetables
+- Cauliflower
+- Broccoli
+- Green cabbage
+- Red cabbage
+- Brussels sprouts
+- Kohlrabi
+- Artichoke
+- Banana flower
+- Banana blossom
+- Drumstick flowers
+- Squash blossoms
+
+### Other common vegetables
+- Tomato
+- Onion
+- Red onion
+- Shallot
+- Garlic
+- Leek
+- Spring onion
+- Eggplant (brinjal)
+- Okra (ladies' finger)
+- Green beans
+- French beans
+- Cluster beans
+- Broad beans
+- Snow peas
+- Green peas
+- Sweet corn
+- Baby corn
+- Green capsicum
+- Red bell pepper
+- Yellow bell pepper
+- Celery
+- Asparagus
+- Fennel bulb
+- Bamboo shoots
+- Bean sprouts
+- Hearts of palm
+- Raw banana
+- Plantain
+- Drumstick pods
+- Raw jackfruit
+- Green papaya
+- Banana stem
+- Tender bamboo shoots
+- Breadfruit
+- Pumpkin shoots
+- Jackfruit seeds
+- Cherupayar sprouts
+
+## 2. Fruits
+
+### Tropical fruits
+- Mango
+- Banana
+- Red banana
+- Plantain
+- Papaya
+- Pineapple
+- Jackfruit
+- Durian
+- Mangosteen
+- Rambutan
+- Lychee
+- Longan
+- Guava
+- Passion fruit
+- Dragon fruit
+- Sapodilla (chikoo)
+- Custard apple
+- Sugar apple
+- Soursop
+- Breadfruit
+- Star fruit
+- Wood apple
+- Bael
+- Tamarind
+- Coconut
+- Avocado
+- Rose apple
+- Java apple
+- Bilimbi
+- Kokum fruit
+- Palm fruit
+- Ice apple (nungu)
+- Langsat
+- Salak
+- Prickly pear
+- Cape gooseberry
+- Tendu fruit
+- Mangaba
+
+### Pome and stone fruits
+- Apple
+- Pear
+- Asian pear
+- Peach
+- Nectarine
+- Plum
+- Apricot
+- Cherry
+- Greengage
+- Quince
+- Loquat
+- Medlar
+- Persimmon
+- Fresh fig
+
+### Citrus fruits
+- Orange
+- Sweet lime (mosambi)
+- Lemon
+- Lime
+- Mandarin
+- Tangerine
+- Clementine
+- Grapefruit
+- Pomelo
+- Citron
+- Yuzu
+- Kumquat
+- Bergamot
+
+### Berries and small fruits
+- Strawberry
+- Blueberry
+- Raspberry
+- Blackberry
+- Cranberry
+- Gooseberry
+- Indian gooseberry (amla)
+- Blackcurrant
+- Redcurrant
+- Whitecurrant
+- Mulberry
+- Elderberry
+- Bilberry
+- Acai berry
+- Grapes
+- Pomegranate
+- Jamun
+- Indian jujube (ber)
+- Phalsa
+- Karonda
+- Indian blackberry
+
+### Melons
+- Watermelon
+- Muskmelon
+- Cantaloupe
+- Honeydew melon
+- Galia melon
+- Canary melon
+
+## 3. Spices
+
+### Whole spices and spice seeds
+- Black pepper
+- White pepper
+- Green peppercorn
+- Long pepper
+- Dried red chilli
+- Bird's eye chilli
+- Cumin seeds (jeera)
+- Black cumin
+- Caraway seeds
+- Shah jeera
+- Coriander seeds
+- Black mustard seeds
+- Brown mustard seeds
+- Yellow mustard seeds
+- Green cardamom
+- Black cardamom
+- Cinnamon
+- Cassia
+- Cloves
+- Star anise
+- Mace
+- Nutmeg
+- Fennel seeds
+- Fenugreek seeds
+- Carom seeds (ajwain)
+- Nigella seeds (kalonji)
+- Sesame seeds
+- Poppy seeds
+- Dill seeds
+- Celery seeds
+- Asafoetida (hing)
+- Bay leaves
+- Indian bay leaf
+- Dried ginger
+- Dry mango (amchur)
+- Tamarind
+- Kokum
+- Stone flower (kalpasi)
+- Sichuan pepper
+- Sumac
+- Vanilla pods
+- Juniper berries
+- Allspice
+- Annatto
+- Grains of paradise
+- Turmeric
+- Saffron
+
+### Spice powders and blends
+- Chilli powder
+- Kashmiri chilli powder
+- Turmeric powder
+- Coriander powder
+- Cumin powder
+- Black pepper powder
+- Fennel powder
+- Dry ginger powder
+- Garlic powder
+- Onion powder
+- Amchur powder
+- Asafoetida powder
+- Cinnamon powder
+- Cardamom powder
+- Nutmeg powder
+- Clove powder
+- Mustard powder
+- Curry powder
+- Garam masala
+- Goda masala
+- Sambar powder
+- Rasam powder
+- Biryani masala
+- Chaat masala
+- Tandoori masala
+- Chana masala
+- Pav bhaji masala
+- Meat masala
+- Chicken masala
+- Fish masala
+- Egg masala
+- Kitchen king masala
+- Vindaloo masala
+- Chettinad masala
+- Kerala fish curry masala
+- Pickle masala
+- Tea masala
+- Five-spice powder
+- Cajun seasoning
+- Taco seasoning
+- Italian seasoning
+- Za'atar
+- Ras el hanout
+- Baharat
+- Berbere
+- Jerk seasoning
+
+## 4. Nuts
+
+- Almonds
+- Cashews
+- Walnuts
+- Pistachios
+- Hazelnuts
+- Pecans
+- Macadamia nuts
+- Brazil nuts
+- Pine nuts
+- Peanuts
+- Chestnuts
+- Acorns
+- Pili nuts
+- Tiger nuts
+- Ginkgo nuts
+- Candlenuts
+- Baru nuts
+- Kola nuts
+- Betel nuts (areca nuts)
+- Hickory nuts
+- Shea nuts
+
+> Peanuts are botanically legumes, and tiger nuts are tubers, but both are often grouped with nuts in food lists.
+
+## 5. Dry fruits
+
+### Dates, raisins and figs
+- Medjool dates
+- Ajwa dates
+- Deglet Noor dates
+- Dried dates
+- Date pieces
+- Golden raisins
+- Black raisins
+- Green raisins
+- Sultanas
+- Currants
+- Dried figs (anjeer)
+
+### Dried fruits
+- Dried apricots
+- Prunes (dried plums)
+- Dried cranberries
+- Dried blueberries
+- Dried goji berries
+- Dried mulberries
+- Dried strawberries
+- Dried cherries
+- Dried mango
+- Dried pineapple
+- Dried banana
+- Dried papaya
+- Dried kiwi
+- Dried apple
+- Dried pear
+- Dried coconut
+- Dried jackfruit
+- Dried amla
+- Dried tamarind
+- Dried persimmon
+- Candied fruit
+- Tutti frutti
+- Crystallised ginger
+- Candied orange peel
+- Mixed dry fruits
+- Fruit cocktail mix
+- Trail mix
+
+## 6. Wheat grains, flour and products
+
+### Wheat grains and flour
+- Wheat berries
+- Whole wheat
+- Durum wheat
+- Bread wheat
+- Spelt
+- Einkorn
+- Emmer
+- Farro
+- Wheat bran
+- Wheat germ
+- Whole wheat flour
+- Atta
+- Chakki atta
+- Maida (refined wheat flour)
+- All-purpose flour
+- Bread flour
+- Cake flour
+- Pastry flour
+- Durum flour
+- Semolina
+- Fine rava
+- Coarse rava
+- Sooji
+- Daliya (broken wheat)
+- Cracked wheat
+- Bulgur
+- Wheat flakes
+- Wheat bran flour
+
+### Indian wheat foods
+- Chapati
+- Roti
+- Phulka
+- Paratha
+- Aloo paratha
+- Gobi paratha
+- Methi paratha
+- Lachha paratha
+- Naan
+- Kulcha
+- Tandoori roti
+- Puri
+- Bhatura
+- Luchi
+- Thepla
+- Khakhra
+- Missi roti
+- Rumali roti
+- Sheermal
+- Baati
+- Litti
+- Wheat dosa
+- Wheat puttu
+- Wheat upma
+
+### Bakery and other wheat products
+- Bread
+- Whole wheat bread
+- Brown bread
+- White bread
+- Sourdough bread
+- Baguette
+- Ciabatta
+- Focaccia
+- Pita bread
+- Pizza base
+- Burger buns
+- Hot dog buns
+- Dinner rolls
+- Croissants
+- Puff pastry
+- Crackers
+- Biscuits
+- Cookies
+- Cakes
+- Muffins
+- Doughnuts
+- Pancakes
+- Waffles
+- Pretzels
+- Wheat tortillas
+- Wheat pasta
+- Macaroni
+- Spaghetti
+- Noodles
+- Couscous
+- Seitan
+- Breadcrumbs
+- Croutons
+
+## 7. Other grains, millets and cereals
+- White rice
+- Brown rice
+- Red rice
+- Black rice
+- Basmati rice
+- Jasmine rice
+- Parboiled rice
+- Matta rice
+- Ponni rice
+- Idli rice
+- Glutinous rice
+- Flattened rice (poha)
+- Puffed rice
+- Rice flakes
+- Rice flour
+- Rice vermicelli
+- Oats
+- Rolled oats
+- Steel-cut oats
+- Oat flour
+- Barley
+- Pearl barley
+- Rye
+- Rye flour
+- Corn
+- Maize flour
+- Cornmeal
+- Cornstarch
+- Popcorn
+- Pearl millet (bajra)
+- Finger millet (ragi)
+- Foxtail millet
+- Little millet
+- Kodo millet
+- Barnyard millet
+- Proso millet
+- Sorghum (jowar)
+- Amaranth
+- Quinoa
+- Buckwheat
+- Teff
+- Fonio
+- Triticale
+- Freekeh
+- Wild rice
+
+## 8. Pulses, lentils and legumes
+
+### Lentils and Indian dals
+- Red lentils
+- Brown lentils
+- Green lentils
+- Black lentils
+- Yellow lentils
+- Whole masoor
+- Split masoor
+- Toor dal
+- Moong dal
+- Urad dal
+- Chana dal
+- Horse gram (kulthi)
+- Moth dal
+- Green gram
+- Black gram
+- Pigeon peas
+
+### Chickpeas and beans
+- Kabuli chana
+- Kala chana
+- Desi chickpeas
+- Roasted chana
+- Split chickpeas
+- Chickpea flour (besan)
+- Kidney beans (rajma)
+- Black beans
+- Pinto beans
+- Navy beans
+- Cannellini beans
+- Butter beans
+- Lima beans
+- Borlotti beans
+- Adzuki beans
+- Mung beans
+- Soybeans
+- Black-eyed peas
+- Cowpeas
+- Field beans (avarekalu)
+- Hyacinth beans
+- Broad beans
+- Runner beans
+
+### Peas, soy and sprouts
+- Green peas
+- Dried peas
+- Yellow split peas
+- Green split peas
+- Snow peas
+- Sugar snap peas
+- Tofu
+- Tempeh
+- Soy chunks
+- Soy granules
+- Soy flour
+- Edamame
+- Soy milk
+- Mung bean sprouts
+- Chickpea sprouts
+- Lentil sprouts
+- Alfalfa sprouts
+- Broccoli sprouts
+- Radish sprouts
+
+## 9. Seeds
+- Pumpkin seeds
+- Sunflower seeds
+- Chia seeds
+- Flaxseeds
+- Hemp seeds
+- Sesame seeds
+- White sesame seeds
+- Black sesame seeds
+- Poppy seeds
+- Watermelon seeds
+- Muskmelon seeds
+- Basil seeds (sabja)
+- Fennel seeds
+- Mustard seeds
+- Coriander seeds
+- Cumin seeds
+- Nigella seeds
+- Fenugreek seeds
+- Carom seeds
+- Dill seeds
+- Celery seeds
+- Pomegranate seeds
+- Lotus seeds
+- Hemp hearts
+- Quinoa seeds
+
+## 10. Herbs and fresh flavouring ingredients
+- Basil
+- Thai basil
+- Holy basil (tulsi)
+- Sweet basil
+- Oregano
+- Thyme
+- Rosemary
+- Sage
+- Marjoram
+- Tarragon
+- Chives
+- Parsley
+- Cilantro
+- Mint
+- Dill
+- Lemongrass
+- Curry leaves
+- Bay leaves
+- Pandan leaves
+- Kaffir lime leaves
+- Vietnamese coriander
+- Culantro
+- Fenugreek leaves
+- Celery leaves
+- Shiso
+- Sorrel
+- Chervil
+- Lemon balm
+- Lovage
+- Fresh ginger
+- Fresh turmeric
+- Garlic
+- Green chilli
+- Red chilli
+- Shallots
+- Lemon zest
+- Orange zest
+
+## 11. Cooking oils and fats
+- Coconut oil
+- Virgin coconut oil
+- Sesame oil
+- Gingelly oil
+- Mustard oil
+- Groundnut oil
+- Peanut oil
+- Sunflower oil
+- Rice bran oil
+- Soybean oil
+- Palm oil
+- Palm kernel oil
+- Olive oil
+- Extra virgin olive oil
+- Avocado oil
+- Canola oil
+- Rapeseed oil
+- Corn oil
+- Safflower oil
+- Grapeseed oil
+- Walnut oil
+- Almond oil
+- Flaxseed oil
+- Hemp seed oil
+- Pumpkin seed oil
+- Ghee
+- Butter
+- Clarified butter
+- Lard
+- Beef tallow
+- Duck fat
+- Shortening
+- Margarine
+
+## 12. Dairy products and alternatives
+- Whole milk
+- Skimmed milk
+- Toned milk
+- Buffalo milk
+- Goat milk
+- Sheep milk
+- Condensed milk
+- Evaporated milk
+- Milk powder
+- Cream
+- Whipping cream
+- Heavy cream
+- Sour cream
+- Buttermilk
+- Yoghurt
+- Greek yoghurt
+- Curd
+- Hung curd
+- Kefir
+- Lassi
+- Paneer
+- Cottage cheese
+- Cheddar
+- Mozzarella
+- Parmesan
+- Feta
+- Ricotta
+- Cream cheese
+- Mascarpone
+- Gouda
+- Brie
+- Blue cheese
+- Processed cheese
+- Cheese slices
+- Whey
+- Whey powder
+- Soy milk
+- Almond milk
+- Oat milk
+- Coconut milk
+- Cashew milk
+- Rice milk
+- Pea milk
+- Vegan yoghurt
+- Vegan cheese
+- Coconut cream
+
+## 13. Sweeteners and sugar products
+- White sugar
+- Brown sugar
+- Powdered sugar
+- Icing sugar
+- Caster sugar
+- Raw sugar
+- Cane sugar
+- Coconut sugar
+- Jaggery
+- Palm jaggery
+- Date sugar
+- Maple syrup
+- Honey
+- Agave syrup
+- Glucose syrup
+- Corn syrup
+- Golden syrup
+- Molasses
+- Treacle
+- Malt syrup
+- Rice syrup
+- Date syrup
+- Stevia
+- Erythritol
+- Xylitol
+- Monk fruit sweetener
+- Caramel
+- Invert sugar
+
+## 14. Baking ingredients
+- Baking powder
+- Baking soda
+- Yeast
+- Instant yeast
+- Active dry yeast
+- Sourdough starter
+- Cream of tartar
+- Cocoa powder
+- Cacao powder
+- Chocolate chips
+- Dark chocolate
+- Milk chocolate
+- White chocolate
+- Couverture chocolate
+- Vanilla extract
+- Vanilla essence
+- Almond extract
+- Food colouring
+- Gel colouring
+- Edible glitter
+- Fondant
+- Marzipan
+- Gelatin
+- Agar-agar
+- Pectin
+- Xanthan gum
+- Guar gum
+- Cornflour
+- Cornstarch
+- Custard powder
+- Bread improver
+- Cake emulsifier
+- Desiccated coconut
+- Chocolate sprinkles
+
+## 15. Flours and starches beyond wheat
+- Rice flour
+- Glutinous rice flour
+- Corn flour
+- Cornstarch
+- Chickpea flour
+- Besan
+- Millet flour
+- Ragi flour
+- Jowar flour
+- Bajra flour
+- Oat flour
+- Almond flour
+- Coconut flour
+- Tapioca flour
+- Cassava flour
+- Potato starch
+- Arrowroot powder
+- Soy flour
+- Buckwheat flour
+- Quinoa flour
+- Amaranth flour
+- Sorghum flour
+- Rye flour
+- Barley flour
+- Teff flour
+- Chestnut flour
+- Chickpea starch
+- Mung bean starch
+- Yam flour
+- Plantain flour
+- Breadfruit flour
+
+## 16. Pickles, sauces and condiments
+- Tomato ketchup
+- Mayonnaise
+- Mustard sauce
+- Dijon mustard
+- Yellow mustard
+- Hot sauce
+- Chilli sauce
+- Sriracha
+- Soy sauce
+- Dark soy sauce
+- Light soy sauce
+- Tamari
+- Oyster sauce
+- Hoisin sauce
+- Fish sauce
+- Worcestershire sauce
+- Barbecue sauce
+- Teriyaki sauce
+- Sweet chilli sauce
+- Peri-peri sauce
+- Pesto
+- Tahini
+- Hummus
+- Harissa
+- Gochujang
+- Miso paste
+- Sambal
+- Chutney
+- Mint chutney
+- Coriander chutney
+- Coconut chutney
+- Tomato chutney
+- Mango chutney
+- Tamarind chutney
+- Pickle
+- Mango pickle
+- Lime pickle
+- Mixed vegetable pickle
+- Kimchi
+- Sauerkraut
+- Capers
+- Olives
+- Vinegar
+- Balsamic vinegar
+- Apple cider vinegar
+- Rice vinegar
+- White vinegar
+- Lemon juice
+- Tamarind paste
+- Tomato paste
+- Tomato purée
+- Coconut cream
+
+## 17. Indian speciality ingredients
+- Sabudana
+- Makhana
+- Jaggery
+- Tamarind
+- Kokum
+- Dried mango
+- Amchur
+- Kasuri methi
+- Curry leaves
+- Banana chips
+- Papad
+- Appalam
+- Pappadam
+- Idiyappam flour
+- Puttu podi
+- Appam podi
+- Dosa batter
+- Idli batter
+- Roasted rice flour
+- Roasted gram
+- Aval
+- Pori
+- Sev
+- Boondi
+- Murukku flour
+- Chakli flour
+- Sattu
+- Ragi malt
+- Malted cereal powder
+- Palm jaggery
+- Coconut jaggery
+- Roasted coconut
+- Coconut milk powder
+- Coconut flakes
+- Toddy vinegar
+- Kodampuli (Malabar tamarind)
+- Kerala matta rice
+- Black chickpeas
+- Green gram
+- Jackfruit seeds
+- Raw banana flour
+
+## 18. Meat, poultry and eggs
+- Chicken
+- Chicken breast
+- Chicken thigh
+- Chicken wings
+- Chicken drumsticks
+- Whole chicken
+- Duck
+- Turkey
+- Quail
+- Quail eggs
+- Chicken eggs
+- Duck eggs
+- Egg whites
+- Egg yolks
+- Mutton
+- Lamb
+- Goat meat
+- Beef
+- Pork
+- Veal
+- Venison
+- Rabbit
+- Bacon
+- Ham
+- Sausages
+- Salami
+- Pepperoni
+- Minced meat
+- Meatballs
+- Liver
+- Kidney
+- Heart
+- Tongue
+- Tripe
+- Bone marrow
+- Stock bones
+
+## 19. Fish and seafood
+- Salmon
+- Tuna
+- Sardines
+- Mackerel
+- Anchovies
+- Pomfret
+- Seer fish
+- Kingfish
+- Tilapia
+- Rohu
+- Catla
+- Trout
+- Cod
+- Haddock
+- Snapper
+- Grouper
+- Barramundi
+- Basa
+- Sole
+- Hilsa
+- Pearl spot (karimeen)
+- Shark
+- Eel
+- Prawns
+- Shrimp
+- Lobster
+- Crab
+- Crayfish
+- Squid
+- Cuttlefish
+- Octopus
+- Mussels
+- Clams
+- Oysters
+- Scallops
+- Cockles
+- Sea urchin
+- Fish roe
+- Dried fish
+- Dried prawns
+- Anchovy paste
+- Fish stock
+- Seafood stock
+
+## 20. Mushrooms and speciality produce
+- Button mushroom
+- Cremini mushroom
+- Portobello mushroom
+- Shiitake mushroom
+- Oyster mushroom
+- King oyster mushroom
+- Enoki mushroom
+- Shimeji mushroom
+- Maitake mushroom
+- Porcini mushroom
+- Chanterelle mushroom
+- Morel mushroom
+- Wood ear mushroom
+- Black truffle
+- White truffle
+- Seaweed
+- Nori
+- Wakame
+- Kombu
+- Dulse
+- Kelp
+
+## 21. Pasta, noodles and ready-to-cook items
+- Spaghetti
+- Penne
+- Fusilli
+- Farfalle
+- Macaroni
+- Rigatoni
+- Lasagne sheets
+- Fettuccine
+- Linguine
+- Ravioli
+- Tortellini
+- Udon noodles
+- Soba noodles
+- Ramen noodles
+- Rice noodles
+- Glass noodles
+- Egg noodles
+- Instant noodles
+- Vermicelli
+- Rice vermicelli
+- Couscous
+- Gnocchi
+- Wonton wrappers
+- Spring roll sheets
+- Puff pastry sheets
+- Filo pastry
+- Pizza dough
+- Tortilla wraps
+- Burger patties
+- Frozen paratha
+- Frozen peas
+- Frozen vegetables
+- Frozen fruit
+
+## 22. Beverages and cooking liquids
+- Water
+- Coconut water
+- Vegetable stock
+- Chicken stock
+- Beef stock
+- Fish stock
+- Bone broth
+- Tea
+- Green tea
+- Black tea
+- Coffee
+- Espresso
+- Cocoa drink
+- Drinking chocolate
+- Lemonade
+- Lime juice
+- Orange juice
+- Apple juice
+- Pomegranate juice
+- Grape juice
+- Fruit concentrates
+- Coconut milk
+- Almond milk
+- Oat milk
+- Malt drinks
+- Kombucha
+- Sparkling water
+
+## 23. Salt and finishing ingredients
+- Table salt
+- Sea salt
+- Rock salt
+- Himalayan pink salt
+- Kosher salt
+- Black salt (kala namak)
+- Smoked salt
+- Flaky salt
+- Finishing salt
+- Lemon zest
+- Lime zest
+- Orange zest
+- Toasted sesame seeds
+- Roasted peanuts
+- Fried onions
+- Crispy garlic
+- Chilli flakes
+- Toasted coconut
+- Nutritional yeast
+- MSG
+- Citric acid
+- Malic acid
+
+---
+
+## Suggested data structure for a recipe app
+
+For an ingredient master database, consider storing each ingredient as a separate record with fields such as:
+
+- `name`
+- `slug`
+- `category`
+- `subCategory`
+- `aliases`
+- `regionalNames`
+- `imageUrl`
+- `unitOptions`
+- `dietaryTags`
+- `isActive`
+
+Keep translations and aliases linked to a canonical ingredient record to reduce duplicates. For example, “tomato”, “thakkali” and “tamatar” can all point to the same ingredient.
